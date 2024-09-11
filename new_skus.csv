@@ -6,7 +6,6 @@ IDENTIFIER,NAME,BARCODES,LENGTH,WIDTH,HEIGHT,WEIGHT,DIMENSION_UOM,WEIGHT_UOM,
 100000000004,6lbs S&S Worldwide,100000000004,127,125,118,2.34,mm,kg
 100000000005,Super Puffs,100000000005,209,83,82,0.106,mm,kg
 100000000006,Elmer's School Glue,100000000006,146,61,29,0.142,mm,kg
-,,,,,,,mm,kg
 681131145640,Equate Soap Holder,681131145640,106,70,41,0.034,mm,kg
 748378001143,Eco Style Gel,748378001143,100,94,93,0.49,mm,kg
 370030621941,Up&Up anitbiotic cream + pain relief,370030621941,113,85,24,0.04,mm,kg
@@ -24,12 +23,11 @@ B07G7WFKX8,REWEE Shower Handle,B07G7WFKX8,195,58,43,0.098,mm,kg
 071400026563,peds no slip heel,071400026563,246,86,30,0.05,mm,kg
 194587535625,AdrienneVittadini foot liners,194587535625,217,90,53,0.190,mm,kg
 041100820761,Dewy,041100820761,109,75,57,0.164
-,eos lip balm,,,,,,mm,kg,
-,spiderman briefs,,,,,,mm,kg,
-,minions figurine,,,,,,mm,kg,
-,Marshalls Socks DC,,,,,,mm,kg,
-,Simply balanced raspberry hibiscus organic tea,,,,,,mm,kg,
-,Good 'n' Fun dog treats,,,,,,mm,kg,
-,Beech-Nut Oatmeal,,,,,,mm,kg,
-,Baloons Express,,,,,,mm,kg,
-,,,,,,,,,
+892992002847,eos lip balm,892992002847,126,75,44,0.03,mm,kg,
+045299010538,spiderman briefs,045299010538,216,124,50,0.212,mm,kg,
+887961852844,minions figurine,887961852844,211,132,69,0.120,mm,kg,
+193159106010,Marshalls Socks DC,193159106010,225,93,48,0.192,mm,kg,
+085239028643,Simply balanced raspberry hibiscus organic tea,085239028643,143,85,74,0.108,mm,kg,
+091093822457,Good 'n' Fun dog treats,091093822457,218,197,62,0.354,mm,kg,
+052200034750,Beech-Nut Oatmeal,052200034750,203,76,76,0.3,mm,kg,
+4560119974280,Baloons Express,4560119974280,196,154,30,0.028,mm,kg,
